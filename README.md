@@ -28,7 +28,9 @@ Endpoint starred: https://api.github.com/users/USER_GITHUB/starred{/owner}{/repo
 
 ### Descrição dos critérios: 
 1 - Ao clicar nos botões de repos e starred, deverá mostrar uma lista simples de cada endpoint apresentado anteriormente.
+
 2 - Dado um determinado usuário, deverá ser possível navegar diretamente até a página de detalhe do usuário sem que seja necessário efetuar uma nova busca.
+
 3 - Gostariamos de pesquisar por usuario.
 4 - Gostariamos de ao clicar no botão de repos, listar repositorios do usuario pesquisado.
 5 - Gostariamos de ao clicar no botão de starred, listar os repositorios mais visitados por aquele usuario.
