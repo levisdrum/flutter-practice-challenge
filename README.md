@@ -6,7 +6,7 @@ Bem-vindo ao teste prático para os candidatos ao cargo de desenvolvedor flutter
 ## OBJETIVO
 Nosso objetivo com este passo do processo de recrutamento é conhecer melhor as suas habilidades técnicas.
 
-Com isso, selecionamos um desafio para você a qual irá prepará-lo para melhor para enfrentar o nosso dia a dia.
+Com isso, selecionamos um desafio para você que irá prepará-lo melhor para enfrentar o nosso dia a dia.
 
 
 
@@ -22,18 +22,19 @@ Endpoint starred: https://api.github.com/users/USER_GITHUB/starred{/owner}{/repo
 ### A aplicação deverá constituir três componentes principais:
 1 - O campo de busca.
 2 - Visualização de resultados.
-3 - Dois botões para executar um determinado resultado.
+3 - Dois botões para executar um determinado resultado ex: botão repositorio; botão de starred.
 
 
 
-### Descrição dos criterios: 
+### Descrição dos critérios: 
 1 - Ao clicar nos botões de repos e starred, deverá mostrar uma lista simples de cada endpoint apresentado anteriormente.
 2 - Dado um determinado usuário, deverá ser possível navegar diretamente até a página de detalhe do usuário sem que seja necessário efetuar uma nova busca.
 3 - Gostariamos de pesquisar por usuario.
 4 - Gostariamos de ao clicar no botão de repos, listar repositorios do usuario pesquisado.
 5 - Gostariamos de ao clicar no botão de starred, listar os repositorios mais visitados por aquele usuario.
-Você poderá usar o framework flutter UI ou Materialize para construção dos componentes (Se preferir, os componentes poderão ser criados do zero, utilizando as boas práticas: reutilização, acessibilidade e performance).
-6 - Gostariamos que pudesse fazer testes unitarios na aplicação.
+6 - Você poderá usar o framework flutter UI ou Materialize para construção dos componentes (Se preferir, os componentes poderão ser criados do zero, utilizando as boas práticas: reutilização, acessibilidade e performance).
+7 - Gostariamos que pudesse fazer testes unitarios na aplicação.
+
 
 
 ### STACK ESPERADA PARA O TESTE
